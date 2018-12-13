@@ -8,7 +8,7 @@ This software is about Library management.
 
 ------------------------------------------------------------------------------------------------
 
-		                     Table of contents
+		                      Table of contents
 	
 Here is some contents in the software:
 
