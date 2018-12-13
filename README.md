@@ -1,7 +1,7 @@
-                      Library Management System
+                                 Library Management System
 ------------------------------------------------------------------------------------------------	
 	                          
-                            Description
+                                       Description
 ------------------------------------------------------------------------------------------------
 This is a project build for educational purpose. As my varsity wants a project I have made it done. 
 This software is about Library management.
