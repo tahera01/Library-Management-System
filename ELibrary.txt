@@ -1,0 +1,51 @@
+                                        “E-Library” installation guide for Customer
+
+
+We developed our software for android and windows operating system. You can install our software in three ways. So, the Installation of E-Library is given below:
+
+
+
+1st way: Install from Windows Store.
+1.      At first you have to on your mobile data or Wi-Fi.
+2.      Tap on the Windows store icon.
+3.      Then you have to log in with your hotmail/outlook account. If you have logged in before in your account then you don't need to log in again.
+4.	It will take some time to load all the apps.
+5.	In search box, enter the name (E-Library) of our software. 
+6.	Then click on the search icon.
+7.	In search result, you will find our name in the top.
+8.	Then click on our software name. 
+9.	After tapping on our apps, it shows your install option, some demo picture, others user reviews.
+10.	Then tap on install button and then apps will download and install automatically.
+11.	All the data of our software is saved on your internal storage. path would be:
+               Windows\obb\best.elibrary.com\data
+
+2nd Way: Install from Play store.
+1.	First of all you have to on your mobile data or Wi-Fi.
+2.	Tap on play store icon.
+3.	Then you have to log in your google account with correct Gmail address and password. If you have logged in before in your account then you don't need to log in.
+4.	Play store takes some time to load all the apps.
+5.	In search box, enter the name (E-Library) of our software. 
+6.	Then click on the search icon.
+7.	In search result, you will find our name in the top.
+8.	Then click on our software name. 
+9.	After tapping on our apps, it shows your install option, some demo picture, others user reviews.
+10.	Then tap on install button and then apps will download and install automatically.
+11.	All the data of our software is saved on your internal storage. path would be:
+               Android\obb\best.elibrary.com\data
+
+3rd way: Download & Install from other sources.
+1.	Open the Settings app on your device. By default devices cannot install apps from sources other than the Windows/Play Store (or the Amazon App Store for Kindle devices). To install apps manually, you'll need to allow your device to install apps from other sources. 
+2.	Tap "Security". This will open the Security menu.
+3.	Scroll down and check the "Unknown sources" box. Tap "OK" to confirm that you want to enable this.
+4.	Open a browser, go to GOOGLE and search the name of our app.
+5.	From the result of google search you can download our software. We request to download our apps from play store or windows store or official website of our E-Libraray.
+6.	After download, open file explores. And go to download folder
+7.	In here, you will find our app. Tap on the app.
+8.	There you will find install and cancel option.
+9.	Tap on install. And installation process will be start.
+10.	After completed installation. Apps will be found in your phone.
+11.	All the data of our software is saved on your internal storage. path would be:
+               Android\obb\best.elibrary.com\data
+                              or
+               Windows\obb\best.elibrary.com\data
+
